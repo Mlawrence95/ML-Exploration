@@ -26,4 +26,4 @@ Projects to explore and develop ML intuition.
  
 Train simple neural networks in Keras with a Tensorflow backend. Interpret the model's evolution at train-time through a local TensorBoard instance.
 
-![A simple NN in tensorboard](tensorboard_stuff/Final/Improved Model Graph.png)
+![A simple NN in tensorboard](tensorboard_stuff/Final/Improved_Model_Graph.png)
